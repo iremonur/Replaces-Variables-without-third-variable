@@ -1,0 +1,10 @@
+C:\Users\Begum.Onur\source\repos\ReplaceVariables\ReplaceVariables\bin\Debug\ReplaceVariables.exe.config
+C:\Users\Begum.Onur\source\repos\ReplaceVariables\ReplaceVariables\bin\Debug\ReplaceVariables.exe
+C:\Users\Begum.Onur\source\repos\ReplaceVariables\ReplaceVariables\bin\Debug\ReplaceVariables.pdb
+C:\Users\Begum.Onur\source\repos\ReplaceVariables\ReplaceVariables\obj\Debug\ReplaceVariables.csprojAssemblyReference.cache
+C:\Users\Begum.Onur\source\repos\ReplaceVariables\ReplaceVariables\obj\Debug\ReplaceVariables.Form1.resources
+C:\Users\Begum.Onur\source\repos\ReplaceVariables\ReplaceVariables\obj\Debug\ReplaceVariables.Properties.Resources.resources
+C:\Users\Begum.Onur\source\repos\ReplaceVariables\ReplaceVariables\obj\Debug\ReplaceVariables.csproj.GenerateResource.cache
+C:\Users\Begum.Onur\source\repos\ReplaceVariables\ReplaceVariables\obj\Debug\ReplaceVariables.csproj.CoreCompileInputs.cache
+C:\Users\Begum.Onur\source\repos\ReplaceVariables\ReplaceVariables\obj\Debug\ReplaceVariables.exe
+C:\Users\Begum.Onur\source\repos\ReplaceVariables\ReplaceVariables\obj\Debug\ReplaceVariables.pdb
